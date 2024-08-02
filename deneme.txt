@@ -1,4 +1,5 @@
 Deneme
 
 1. Deneme
-2. Deneme2
+2. ilk kayittan sonraki ilk ekleme
+3. commit ten sonra ekleme
