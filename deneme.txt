@@ -6,3 +6,5 @@ Deneme
 4. branch acildi. dosyada degisiklik yapildi.
 
 5. Conflict icin bu sati main ile eklendi
+6. tekrar degisiklik yapiyorum. conflict cozuldu
+
