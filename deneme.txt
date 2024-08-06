@@ -4,3 +4,6 @@ Deneme
 2. ilk kayittan sonraki ilk ekleme
 3. commit ten sonra ekleme
 4. branch acildi. dosyada degisiklik yapildi.
+
+5. islemler bitti
+6. tekrar degisiklik yapiyorum.
