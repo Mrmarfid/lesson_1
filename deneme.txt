@@ -4,3 +4,6 @@ Deneme
 2. ilk kayittan sonraki ilk ekleme
 3. commit ten sonra ekleme
 4. branch acildi. dosyada degisiklik yapildi.
+
+5.conflict icin git hub da ekleme 
+6. yapildi
